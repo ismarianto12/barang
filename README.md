@@ -1,0 +1,2 @@
+# barang
+aplikasi barang
